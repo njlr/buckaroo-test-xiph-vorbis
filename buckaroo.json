@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-xiph-vorbis",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "xiph/vorbis": "1.3.5"
+  }
+}
